@@ -26,6 +26,8 @@ java <year>/day-<number>/Main.java
 
 - [Day 1: Chronal Calibration](https://adventofcode.com/2018/day/1)
   - [Java](java/2018/day-01/Main.java)
+- [Day 2: Inventory Management System](https://adventofcode.com/2018/day/2)
+  - [Java](java/2018/day-02/Main.java)
 
 ## License
 
